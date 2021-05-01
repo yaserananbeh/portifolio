@@ -1,3 +1,51 @@
+# the deployed website link : [Click Here](https://blissful-hodgkin-53baa5.netlify.app/)
+
+## 1. Deploy: As a user, I want to view a unique portfolio so that the skills and personality of the developer are portrayed.
+
+## Estimate of time needed to complete:30 min
+
+## Start time: 2Am
+
+## Finish time: 2:45
+
+## Actual time needed to complete: 15 min
+
+
+## 2. Modify the contents of the Profile Example Page: As a user, I want to know all about the developer's professional history and values along with their personality.
+
+## Estimate of time needed to complete:30 min
+
+## Start time: 2:45Am
+
+## Finish time: 3:15 Am
+
+## Actual time needed to complete: 30 min
+
+
+
+## 3. Modify the contents of the Nav, Header and Footer: As a user, I want a clean, easy to use UX so I can easily find the information that I want and know what I am looking at.
+
+## Estimate of time needed to complete:45 min
+
+## Start time: 3:15Am
+
+## Finish time: 3:45 Am
+
+## Actual time needed to complete:30  min
+
+
+
+
+## 4. Redo the 'Landing' page so that it is your new 'Portfolio' page: As a user, I want to see previous projects that the developer has worked on.
+
+## Estimate of time needed to complete:2 hour
+
+## Start time: 10pm
+
+## Finish time: 
+
+## Actual time needed to complete:  min
+
 # [Argon Design System React](https://demos.creative-tim.com/argon-design-system-react?ref=adsr-github-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Argon%20Design%20System%20is%20a%20Free%20Bootstrap%204,%20React%20and%20Reactstrap%20Dashboard%20made%20using%20create-react-app%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//demos.creative-tim.com/argon-design-system-react%20%23react%20%23reactstrap%20%23createreactapp%20%23argon%20%23argondesign%20%23reactkit%20%23argonreact%20%23reactdesign%20%23bootstrap%20%23design%20%23uikit%20%23freebie%20%20via%20%40CreativeTim)
 
 
