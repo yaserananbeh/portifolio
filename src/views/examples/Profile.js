@@ -116,7 +116,7 @@ class Profile extends React.Component {
                           <span className="description">Certificates</span>
                         </div>
                         <div>
-                          <span className="heading">10<sup>+</sup></span>
+                          <span className="heading">5 <sup>+</sup></span>
                           <span className="description">Programming Techniques</span>
                         </div>
                       </div>
@@ -147,9 +147,9 @@ class Profile extends React.Component {
                           Software Engineer, interested in the web development, Handling new challenges, solve a variety of real life problems and build a great web applications using modern programming techniques are my mission.
                         
                         </p>
-                        <a href="#pablo" onClick={e => e.preventDefault()}>
+                        {/* <a href="#pablo" onClick={e => e.preventDefault()}>
                           Show more
-                        </a>
+                        </a> */}
                       </Col>
                     </Row>
                   </div>
@@ -158,7 +158,7 @@ class Profile extends React.Component {
             </Container>
           </section>
         </main>
-        <SimpleFooter />
+        {/* <SimpleFooter /> */}
       </>
     );
   }
